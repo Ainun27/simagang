@@ -1,59 +1,48 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+- Tampilan Halaman Login
+  <img width="718" height="357" alt="image" src="https://github.com/user-attachments/assets/e9573c02-f0ae-4885-9390-34e6ff062406" />
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+- Tampilan Halaman Dashboard Admin
+  <img width="726" height="360" alt="image" src="https://github.com/user-attachments/assets/e30d38fe-5e03-4a59-86f5-d24bfff58a24" />
 
-## About Laravel
+- Tampilan Halaman Data Divisi
+  <img width="695" height="347" alt="image" src="https://github.com/user-attachments/assets/4fa33a45-6496-44f1-8fb3-219ba4ae2449" />
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- Tampilan Halaman Tambah Data Divisi
+  <img width="675" height="334" alt="image" src="https://github.com/user-attachments/assets/e31f28bd-0214-4d27-ad6e-fa2b936e05e9" />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Tampilan Halaman View Data Divisi
+  <img width="624" height="309" alt="image" src="https://github.com/user-attachments/assets/d8ce5155-72a2-4e14-b53f-33aa9d287edf" />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Tampilan Halaman Edit Data Divisi
+  <img width="636" height="316" alt="image" src="https://github.com/user-attachments/assets/1a9c97fb-88b6-412f-82d2-b83940d23608" />
 
-## Learning Laravel
+- Tampilan Hapus Data Divisi
+  <img width="659" height="327" alt="image" src="https://github.com/user-attachments/assets/8dc5d347-f409-4c0d-8dc5-ff22a189c56c" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+- Tampilan Halaman Data Mahasiswa
+  <img width="672" height="335" alt="image" src="https://github.com/user-attachments/assets/83c831c2-34f3-4744-b0d1-63b825c044be" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Tampilan Halaman Tambah Data Mahasiswa
+  <img width="708" height="351" alt="image" src="https://github.com/user-attachments/assets/1cdfcb2b-f5c1-4119-85f4-e867e4fc7be4" />
 
-## Laravel Sponsors
+- Tampilan Halaman View Data Mahasiswa
+  <img width="720" height="357" alt="image" src="https://github.com/user-attachments/assets/85218399-a614-46e3-b94e-57191615045f" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- Tampilan Halaman Edit Data Mahasiswa
+  <img width="752" height="374" alt="image" src="https://github.com/user-attachments/assets/1e96ff16-ba52-4e13-a03b-08aa126c1432" />
 
-### Premium Partners
+- Tampilan Hapus Data Mahasiswa
+  <img width="730" height="362" alt="image" src="https://github.com/user-attachments/assets/cc7f809d-99a6-40f3-9e74-651e9ac5da92" />
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+- Tampilan Halaman Laporan Magang
+  <img width="741" height="371" alt="image" src="https://github.com/user-attachments/assets/6d17013c-6f91-48c0-9d2d-a4c5900fab44" />
 
-## Contributing
+- Tampilan Halaman Download Laporan
+  <img width="723" height="359" alt="image" src="https://github.com/user-attachments/assets/fb2c32a3-a638-44ec-9851-a90b895e1c1b" />
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Tampilan Halaman Dashboard Umum
+  <img width="731" height="357" alt="image" src="https://github.com/user-attachments/assets/fee8ede5-7593-4ec0-a962-4fbf67441c7b" />
+  <img width="739" height="346" alt="image" src="https://github.com/user-attachments/assets/8b2dc654-faa2-40a6-b2f2-0504fac840e7" />
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Tampilan Halaman Informasi Pendaftaran
+  <img width="728" height="363" alt="image" src="https://github.com/user-attachments/assets/1363b960-9426-47bd-84e6-8e0801f8356b" />
